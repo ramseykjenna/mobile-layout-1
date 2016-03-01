@@ -23,14 +23,12 @@ a {
 	background-color: #5D0000;
 	margin-left: .625em;
 	margin-right: .625em;
-
 }
 
 .border {
 	height: 2em;
 	border-bottom: .0625em solid black;
 	margin-bottom: 4em;
-
 }
 
 .box3 {
@@ -137,8 +135,6 @@ nav {
 	left: 50%;
 	transform: translate(-50%);
 	background-color: #FFFFFF;
-
-
 } 
 
 .divider {
@@ -184,7 +180,6 @@ nav {
 	height: 3.125em;
 	background-color: #31485F;
 	margin-bottom: 5em;
-
 }
 
 .picture-three {
